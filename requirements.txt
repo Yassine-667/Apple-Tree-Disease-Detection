@@ -1,0 +1,15 @@
+currently : python 3.10 
+		tensorflow 2.11
+		visual studio 2022
+		visual studio 2019
+		tensorflow-gpu
+		cuda 11.2
+		cudnn 8.1
+--------------------------------------
+installed : fastapi 0.88
+		uvicorn 0.20
+		postman 
+		python-multipart
+		pillow
+		tensorflow-serving-api 2.10.1
+---------------------------------------
