@@ -34,6 +34,7 @@ The response will be a JSON object with the prediction result.
 If you want to train your own model, you can use the Training-Algo.py script. You will need to provide your own dataset for training and validation.
 i personnally took my dataset from Kaggle . and i just worked with a part of it ( apple tree diseases ) .
 
+i used my own GPU to train my model , if you want to do the same you'll need an nvidia gpu as well as having cuda and cudnn installed and working proprely , the python file test-gpu.py will let you know if the tensorflow recognizes your gpu by having 1 or plus as an output .
 ## Conclusion :
 
 This API can be used for quick and accurate detection of apple tree diseases. It can be integrated with mobile and web applications for easy and convenient usage.
