@@ -25,7 +25,9 @@ Install the required packages using the command :
 
 Start the API by running python main.py
 The API will be running on http://localhost:3000/.
+
 You can now make predictions by sending a POST request to http://localhost:5000/predict with an image of a plant leaf attached.
+
 The response will be a JSON object with the prediction result.
 
 
